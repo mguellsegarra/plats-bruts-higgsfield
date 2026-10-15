@@ -2,11 +2,15 @@
 
 Com he fet ballar els personatges de *Plats bruts* amb imatges generades amb IA i Motion Transfer de Higgsfield. Aquí tens els vídeos, les imatges i els prompts per preparar les teves pròpies proves.
 
-<img src="imatges/david/david-cos-complet.png" alt="David" width="150">
-<img src="imatges/carbonell/carbonell-cos-complet.png" alt="Carbonell" width="150">
-<img src="imatges/lopes/lopes-cos-complet.png" alt="Lopes" width="150">
-<img src="imatges/emma/emma-cos-complet.png" alt="Emma" width="150">
-<img src="imatges/ramon/ramon-cos-complet-v2.png" alt="Ramon" width="150">
+<table>
+<tr>
+<td align="center"><img src="imatges/david/david-cos-complet.png" alt="David" width="140"><br>David</td>
+<td align="center"><img src="imatges/carbonell/carbonell-cos-complet.png" alt="Carbonell" width="140"><br>Carbonell</td>
+<td align="center"><img src="imatges/lopes/lopes-cos-complet.png" alt="Lopes" width="140"><br>Lopes</td>
+<td align="center"><img src="imatges/emma/emma-cos-complet.png" alt="Emma" width="140"><br>Emma</td>
+<td align="center"><img src="imatges/ramon/ramon-cos-complet-v2.png" alt="Ramon" width="140"><br>Ramon</td>
+</tr>
+</table>
 
 **[Com fer-ho](docs/COM-FER-HO.md)** · [Imatges dels personatges](imatges/README.md) · [Com he preparat els vídeos](docs/PROCES.md)
 
