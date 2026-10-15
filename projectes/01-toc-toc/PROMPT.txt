@@ -1,0 +1,18 @@
+Replace the four dancers in the source video with the FOUR distinct people shown in the uploaded still images. The eight still images show four people twice: one full-body view and one close-up profile view of each person. Match each portrait to its full-body reference by the same face, hairstyle and clothing. These are alternate views of the same four people, not eight cast members. Identify the references by their visual appearance, regardless of upload order or filenames.
+
+FIXED CAST AND SOURCE MAPPING
+
+BLUE-SHIRT MAN: the young clean-shaven man with thick short dark curly hair, pale-blue short-sleeved open-collar shirt, dark trousers and brown leather shoes. Both blue-shirt references describe this one person. He replaces the source dancer with long dark curly hair, round glasses and an open white shirt without a tie. This is the dancer already leading at the very start of the source. Show the BLUE-SHIRT MAN from the FIRST FRAME and keep him on this same dancer's track throughout the video, including every return from the background.
+
+PINK-SHIRT WOMAN: the older woman with voluminous grey hair, reddish reading glasses on a black cord, an open pink shirt over a white T-shirt, blue jeans and black flat shoes. Both pink-shirt references describe this one person. She replaces the source dancer with the straight black bob and burgundy dress, who takes the second foreground turn.
+
+BROWN-SHIRT MAN: the man with a receding hairline and short dark curls, subtly striped brown long-sleeved shirt over a light-grey T-shirt, olive-brown trousers and brown lace-up shoes. Both brown-shirt references describe this one person. He replaces ONLY the source dancer with the orange/copper bob, moustache, brown jacket, black tie and dark blue trousers, who takes the third foreground turn. This person is distinct from the blue-shirt man. Never assign him to the opening dancer.
+
+MULTICOLOURED-CARDIGAN WOMAN: the woman with short spiky reddish-brown hair, a multicoloured striped knitted cardigan, a T-shirt patterned with brightly coloured squares, a short brown skirt over checked leggings, black socks and dark lace-up shoes. Both multicoloured-cardigan references describe this one person. She replaces the source dancer with the blond bob, brown suit and diagonally striped tie, who takes the fourth foreground turn.
+
+CONTINUITY
+The foreground cycle is BLUE SHIRT, PINK SHIRT, BROWN SHIRT, MULTICOLOURED CARDIGAN, then repeats following the source. The opening foreground person is BLUE SHIRT. Keep four separate persistent identities: each reference person replaces exactly one source dancer for the entire clip. Keep the same face, hair, body proportions, clothing and shoes when a person crosses behind another, is briefly hidden, exits the frame or returns. Match identity to the source dancer's continuous movement, not to a fixed screen position. No identity swaps, blended faces, clones or additional people. Background appearances belong to the same four people. Do not force all four to be visible simultaneously.
+
+Use the full-body references for each complete outfit and proportions, and their matching close-up portraits for facial detail in side views. Preserve the reference appearances rather than the original wigs and costumes. Ignore the still-image studio backgrounds.
+
+Retain the source dance, gestures, timing, paths, entrances, exits, original apartment, lighting, vertical framing, fixed camera and full source duration. Render a single natural live-action scene with four consistent people, not a collage or split screen.
