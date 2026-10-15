@@ -12,7 +12,9 @@ Com he fet ballar els personatges de *Plats bruts* amb imatges generades amb IA 
 </tr>
 </table>
 
-**[Com fer-ho](docs/COM-FER-HO.md)** · [Imatges dels personatges](imatges/README.md) · [Com he preparat els vídeos](docs/PROCES.md)
+<p align="center">
+<strong><a href="docs/COM-FER-HO.md">Com fer-ho</a></strong> · <a href="imatges/README.md">Imatges dels personatges</a> · <a href="docs/PROCES.md">Com he preparat els vídeos</a>
+</p>
 
 ## Imatges i vídeos
 
